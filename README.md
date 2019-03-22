@@ -2,6 +2,9 @@
 Implementação do MIPS com pipeline, em Verilog, para trabalho prático da disciplina de 
 Organização de Computadores II, da Universidade Federal de Viçosa - Campus Florestal.
 
+## Diagrama do Circuito
+![Diagrama do circuito](diagram.png)
+
 ## Instruções do MIPS
 Nesta implementação do caminho de dados do MIPS, feita com pipeline, é oferecido suporte a 18 instruções:
 `add`, `addi`, `and`, `beq`, `bne`, `j`, `jal`, `jr`, `lui`, `lw`, `or`, `ori`, `sub`, `sll`, `slt`,
